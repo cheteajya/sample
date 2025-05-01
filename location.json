@@ -1,0 +1,211 @@
+[
+    {
+        "name": "Perez Park",
+        "description": "A relaxing park in the heart of Lucena City.",
+        "coordinates": {
+            "lat": 13.9374,
+            "lng": 121.6159
+        },
+        "address": {
+            "barangay": "Barangay 4",
+            "purok": "Purok 2"
+        },
+        "tags": ["park", "relax", "landmark"]
+    },
+    {
+        "name": "SM City Lucena",
+        "description": "Lucena's major shopping destination.",
+        "coordinates": {
+            "lat": 13.9311,
+            "lng": 121.6166
+        },
+        "address": {
+            "barangay": "Ibabang Dupay",
+            "purok": "Purok 5"
+        },
+        "tags": ["mall", "shopping", "entertainment"]
+    },
+    {
+        "name": "Hachienda Inn",
+        "description": "Lucena's top spot for dining and relaxation.",
+        "coordinates": {
+            "lat": 13.9335,
+            "lng": 121.6127
+        },
+        "address": {
+            "barangay": "Barangay 7",
+            "purok": "Magallanes Street"
+        },
+        "tags": ["restaurant", "dining", "cuisine", "food"]
+    },
+    {
+        "name": "Cafe Antigua",
+        "description": "Offers variety of flavorful dishes!",
+        "coordinates": {
+            "lat": 13.9352,
+            "lng": 121.6131
+        },
+        "address": {
+            "barangay": "Barangay 6",
+            "purok": "Profugo Street"
+        },
+        "tags": ["restaurant", "dining", "cuisine", "food"]
+    },
+    {
+        "name": "Buddy's Pizza",
+        "description": "Known for its signature Filipino dishes.",
+        "coordinates": {
+            "lat": 13.9314,
+            "lng": 121.6125
+        },
+        "address": {
+            "barangay": "Barangay 8",
+            "purok": "Corner Leon Guinto Street"
+        },
+        "tags": ["restaurant", "cuisine", "dining", "food", "filipino food"]
+    },
+    {
+        "name": "Lugaw Queen",
+        "description": "Go-to spot for delicious Filipino comfort food!",
+        "coordinates": {
+            "lat": 13.9338,
+            "lng": 121.6129
+        },
+        "address": {
+            "barangay": "Barangay 6",
+            "purok": "M.L.Tagarao Street"
+        },
+        "tags": ["restaurant", "cuisine", "lugaw", "comfort food"]
+    },
+    {
+        "name": "Señoritas Mexinoy Kitchen",
+        "description": "A vibrant restaurant blending Mexican and Filipino flavors!",
+        "coordinates": {
+            "lat": 13.9404,
+            "lng": 121.6069
+        },
+        "address": {
+            "barangay": "Ilayang Iyam",
+            "purok": "Pearl Street"
+        },
+        "tags": ["restaurant", "Mexican cuisine", "Filipino cuisine", "dining", "food"]
+    },
+    {
+        "name": "Slash Restaurant",
+        "description": "Top spot for a variety of delicious dishes",
+        "coordinates": {
+            "lat": 13.9352,
+            "lng": 121.6115
+        },
+        "address": {
+            "barangay": "Barangay 5",
+            "purok": "Allarey Corner Rizal Street"
+        },
+        "tags": ["restaurant", "dining", "cuisine", "food"]
+    },
+    {
+        "name": "Eduvigis Coffee Bar and Restaurant",
+        "description": "Fresh coffee, hearty meals, and a cozy gathering spot.",
+        "coordinates": {
+            "lat": 13.9336,
+            "lng": 121.6117
+        },
+        "address": {
+            "barangay": "Barangay 7",
+            "purok": "Corner Bonifacio Street"
+        },
+        "tags": ["coffee", "restaurant", "casual dining", "meals", "food"]
+    },
+    {
+        "name": "Isaiah's Kitchen",
+        "description": "Perfect spot for casual dining, social gatherings, or a cozy moment to relax.",
+        "coordinates": {
+            "lat": 13.9344,
+            "lng": 121.6116
+        },
+        "address": {
+            "barangay": "Barangay 7",
+            "purok": "80 Allarey Street"
+        },
+        "tags": ["restaurant", "kitchen", "dining", "meals", "food", "gatherings", "cozy", "relax"]
+    },
+    {
+        "name": "Jollibee",
+        "description": "Famous for Filipino-style spaghetti, crispy Chickenjoy, and sweet desserts",
+        "coordinates": {
+            "lat": 13.9362,
+            "lng": 121.6136
+        },
+        "address": {
+            "barangay": "Barangay 5",
+            "purok": "San Fernando Street"
+        },
+        "tags": ["fast food", "Filipino cuisine", "fried chicken", "spaghetti", "desserts"]
+
+    },
+    {
+        "name": "McDonald's",
+        "description": "Offers classic burgers, fries, breakfast options, and fried chicken",
+        "coordinates": {
+            "lat": 13.9365,
+            "lng": 121.6133
+        },
+        "address": {
+            "barangay": "Barangay 4",
+            "purok": "129 Quezon Avenue"
+        },
+        "tags": ["fast food", "burgers", "fries", "fried chicken", "breakfast"]
+    },
+    {
+        "name": "Chowking",
+        "description": "Serves Chinese-Filipino dishes such as dim sum, Chao Fan rice bowls, and noodle soups.",
+        "coordinates": {
+            "lat": 13.9367,
+            "lng": 121.6135
+        },
+        "address": {
+            "barangay": "Barangay 2",
+            "purok": "Quezon Avenue cor. ML Tagarao Street"
+        },
+        "tags": ["fast food", "Chinese cuisine", "rice meals", "dim sum"]
+    },
+    {
+        "name": "KFC",
+        "description": "Known for its crispy fried chicken, rice bowls, and sides",
+        "coordinates": {
+            "lat": 13.9367,
+            "lng": 121.6132
+        },
+        "address": {
+            "barangay": "Barangay 4",
+            "purok": "Quezon Avenue cor. ML Tagarao Street"
+        },
+        "tags": ["fast food", "fried chicken", "gravy", "comfort food"]
+    },
+    {
+        "name": "Greenwich Pizza",
+        "description": "Specializes in pizzas, pasta, and rice meals, ideal for family and group dining.",
+        "coordinates": {
+            "lat": 13.9380,
+            "lng": 121.6133
+        },
+        "address": {
+            "barangay": "Barangay 1 Poblacion",
+            "purok": "2886 Quezon Avenue"
+        },
+        "tags": ["fast food", "pizza", "pasta", "group dining", "family-friendly"]
+    },
+    {
+        "name": "Red Ribbon",
+        "description": "Offers cakes, pastries, and light meals, perfect for desserts and celebrations.",
+        "coordinates": {
+            "lat": 13.9376,
+            "lng": 121.6133
+        },
+        "address": {
+            "barangay": "Barangay 3",
+            "purok": "106 Quezon Avenue"
+        },
+        "tags": ["cakes", "pastries", "desserts", "celebrations"]
+    }
+]
